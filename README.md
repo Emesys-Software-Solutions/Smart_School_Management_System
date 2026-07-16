@@ -213,7 +213,56 @@ Management       & Exams       Assistant     Monitoring
 
 # 🛠 Technology Stack
 
-<!-- This section is under development -->
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap
+
+### Backend
+- Python
+- Django
+- Flask
+
+### API Development
+- RESTful APIs
+
+### Database
+- PostgreSQL
+- MySQL
+- SQLite
+
+### AI & Machine Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+
+### Data Processing
+- Pandas
+- NumPy
+
+### Authentication & Security
+- JWT Authentication
+- OAuth 2.0
+
+### Version Control
+- Git
+- GitHub
+
+### Deployment
+- Docker
+- Docker Compose
+
+### Cloud Platforms
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+
+### Development Tools
+- VS Code
+- Postman
 
 ---
 
